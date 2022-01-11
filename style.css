@@ -1,0 +1,9 @@
+body{
+    background-size: cover;
+}
+
+h1{
+    margin: 10px;
+    width: 250px;
+    font-size: 25px;
+}
